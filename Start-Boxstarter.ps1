@@ -1,1 +1,1 @@
-START http://boxstarter.org/package/nr/url?https://gist.githubusercontent.com/Mellbourn/fa08dd4262201950a395/raw/aa26a8604a477550920e6fb6784c140710327dbe/boxstarterDevMachine.ps1
+START http://boxstarter.org/package/url?https://gist.githubusercontent.com/Mellbourn/fa08dd4262201950a395/raw/0ec276c41642fb5e0f04f68d2ba6ce584e1a9610/boxstarterDevMachine.ps1
